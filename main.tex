@@ -1,0 +1,128 @@
+% Author：Jiaqi Xiong
+% Email：yoshiki.xiong@outlook.com
+
+\documentclass[UTF8,AutoFakeBold=1,AutoFakeSlant,zihao=-4]{SCNU}
+
+% Title and information
+\newcommand{\thesisTitle}{Your Thesis Title}
+% \newcommand{\thesisTitleEN}{Automated High-Rise Warehouse; Stacking Crane; Design}
+
+\newcommand{\yourDept}{Aberdeen Institute of Data Science and Artificial Intelligence}
+\newcommand{\yourMajor}{人工智能}
+\newcommand{\yourName}{momo}
+\newcommand{\yourClass}{\yourMajor 1班}
+\newcommand{\yourMentor}{momo}
+\newcommand{\studentID}{20213801000}
+
+\usepackage{lipsum} % for dummy text
+
+\begin{document}
+
+% Cover Page (automatically generated)
+\coverpage
+
+% --- English Abstract ---
+\begin{abstractEN}
+\noindent\hspace*{4\ccwd}The abstract text starts with 4-character indentation. This is the first paragraph demonstrating proper indentation. The content should be written in Times New Roman font (small 4 size) with consistent formatting throughout.
+
+The second paragraph maintains the same indentation style. Notice that the indentation is automatically applied without manual spacing commands. The key words section follows the specified format.
+
+\keywordsEN{Deep Learning; Computer Vision; Natural Language Processing}
+\end{abstractEN}
+
+% ---  Chinese Abstract ---
+% If you are required to include a Chinese abstract, uncomment the following:
+\begin{abstract}
+\noindent\hspace*{4\ccwd}中文摘要内容, 用小四号宋体字体，每段开头留4个字符空格，英文摘要的内容应与中文摘要基本相对应
+
+“关键词”空两格，后加冒号与关键词隔开，各关键词之间用逗号隔开。中文关键词应与英文关键词相对应。关键词一般在 3—8 个之间。
+
+\keywords{深度学习，计算机视觉，自然语言处理}
+\end{abstract}
+
+% --- Table of Contents ---
+\contentpage
+% --- PREFACE ---
+\section*{PREFACE}
+
+
+
+\newpage
+
+% --- MAIN BODY ---
+\section{MAIN BODY}
+\subsection{First Section Title}
+\subsubsection{Subsection example}
+\vspace{1em}
+\noindent\hspace*{4\ccwd}This is the first paragraph of the first section. All paragraphs should begin with an indent corresponding to 4 characters. 
+
+
+
+\subsection{Example}
+
+\subsubsection{Figure Example}
+\begin{figure}[ht]
+    \centering
+    \includegraphics[scale=0.3]{figures/abd.png}
+    \caption{University of Aberdeen.}
+    \label{fig:example}
+\end{figure}
+
+\subsubsection{Table Example}
+\begin{table}[ht]
+    \centering
+    \caption{ Feature Description}
+    \begin{tabular}{lll}
+    \toprule
+                     & Feature Description & Dimension \\ \midrule
+    Zero Crossing  & Frequency of waveform crossing the x-axis  & 1 \\
+    Spectral Centroid & Indicates the “center of mass” of the sound & 1 \\ \bottomrule
+    \end{tabular}
+    \label{tab:example}
+\end{table}
+\subsubsection{Citation Example}
+
+The transformer architecture, first introduced by \cite{vaswani2017attention}, revolutionized the field of natural language processing. As shown in Equation \ref{eq:loss}, the self-attention mechanism...
+
+\subsubsection{Equation Example}
+
+\begin{equation}
+    loss = -\sum_{i=1}^{n}{y_i\,\log(\hat{y_i})} + \lambda \left\lVert\omega\right\rVert_2^2
+    \label{eq:loss}
+\end{equation}
+
+% --- Code Example ---
+\begin{verbatim}
+import numpy as np
+
+def normalize(x):
+    mean = np.mean(x)
+    std = np.std(x, ddof=1)
+    return (x - mean) / std
+\end{verbatim}
+
+
+
+
+% --- CONCLUSION ---
+
+\section{Conclusion}
+\subsection{Main result}
+\noindent\hspace*{4\ccwd}Briefly review the work completed, the research method used, the experiments or simulations conducted, and the results obtained. Do not completely copy the abstract; the content should be similar but not identical.
+
+
+
+
+% --- REFERENCES ---
+
+\begin{references}
+    \bibliography{references.bib}
+\end{references}
+
+% --- APPENDIX ---
+\clearpage
+\nonumsection{APPENDIX}
+\appendixformat
+\noindent\hspace*{4\ccwd}Include lengthy derivations, full code listings, or supplementary tables and figures as needed.
+
+\end{document}
