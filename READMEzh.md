@@ -21,7 +21,7 @@
 4. 自动生成中英双语摘要
 
 ## 📜 License
-本项目采用 MIT license.[![LICENSE](https://github.com/kikixiong/SCNU-ABD-Thesis-template/blob/main/LICENSE) 
+本项目采用 MIT license.[LICENSE](https://github.com/kikixiong/SCNU-ABD-Thesis-template/blob/main/LICENSE) 
 
 
 ## 🤝 参与贡献
