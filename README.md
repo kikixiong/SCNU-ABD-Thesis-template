@@ -8,6 +8,7 @@
 - ✅ Always consult your supervisor before using  
 
 
+
 ## TODO
 - [ ] Upload the template to Overleaf template gallery
 - [ ] Confirm whether the committee permits the template format
@@ -17,6 +18,13 @@
 2. Pre-configured for Overleaf
 3. Smart numbering system (reset in appendices)
 4. Auto-generated bilingual abstract
+
+
+## 🚀 Quick Start
+### Overleaf Online
+1. Upload .zip file to the Overleaf
+2. Select the Compiler as XeLaTex in the menu![5d003dace40703c8bc77938a6e2ceaa](https://github.com/user-attachments/assets/6e8e2bef-be06-4783-b858-af35c05705b3)
+
 
 
 ## 📜 License
