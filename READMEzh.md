@@ -20,6 +20,12 @@
 3. 智能图表编号（附录自动重置）
 4. 自动生成中英双语摘要
 
+## 🚀 快速使用
+### Overleaf
+1. 上传.zip文件到Overleaf
+2. 打开菜单（Menu），切换编译器（Compiler）为XeLaTex![5d003dace40703c8bc77938a6e2ceaa](https://github.com/user-attachments/assets/75f1b834-0feb-4154-9d42-ed447f3efb8e)
+
+
 ## 📜 License
 本项目采用 MIT license.[LICENSE](https://github.com/kikixiong/SCNU-ABD-Thesis-template/blob/main/LICENSE) 
 
