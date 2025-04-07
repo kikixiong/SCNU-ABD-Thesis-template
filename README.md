@@ -12,6 +12,7 @@
 
 ## TODO
 - [ ] Upload the template to Overleaf template gallery
+- [ ] Adapt to Aberdeen template migration
 - [ ] Confirm whether the committee permits the template format
 
 ## ✨ Key Features
