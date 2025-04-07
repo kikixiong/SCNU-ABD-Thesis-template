@@ -33,3 +33,11 @@
 ## 🤝 参与贡献
 - 🌟 欢迎Star和分享
 - 💡 欢迎提交PR和改进建议 
+
+## 参考
+
+🔗 [SCNU-my-article](https://www.overleaf.com/latex/templates/scnu-my-article/jkbbvhnddtsw)
+
+🔗 [University of Aberdeen thesis template](https://www.overleaf.com/latex/templates/university-of-aberdeen-thesis-template/jzrbyqmggygd)
+
+🔗 [NEXT-SCNUThesis](https://github.com/FaterYU/NEXT-SCNUThesis)
