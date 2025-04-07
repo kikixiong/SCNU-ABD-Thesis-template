@@ -1,6 +1,7 @@
 # SCNU-ABD-Thesis-template
 
 [中文版README](READMEzh.md) | [GitHub Repository](https://github.com/kikixiong/SCNU-ABD-Thesis-template)
+![image](https://github.com/user-attachments/assets/67f1a435-d447-40c0-b05d-b6c009896687)
 
 ## ⚠️ Important Notice
 - 🔴 **Unofficial** template, not endorsed by Institute and University Academic Committee. Risk of rejection and being required to resubmit in Word format. Use with extreme caution.
