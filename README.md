@@ -33,3 +33,11 @@ This repository is released under the MIT license. See [LICENSE](https://github.
 ## 🤝 Contribution
 - 🌟 Star & Share this repo
 - 💡 PR and suggestions are welcome
+
+## Reference
+
+🔗 [SCNU-my-article](https://www.overleaf.com/latex/templates/scnu-my-article/jkbbvhnddtsw)
+
+🔗 [University of Aberdeen thesis template](https://www.overleaf.com/latex/templates/university-of-aberdeen-thesis-template/jzrbyqmggygd)
+
+🔗 [NEXT-SCNUThesis](https://github.com/FaterYU/NEXT-SCNUThesis)
