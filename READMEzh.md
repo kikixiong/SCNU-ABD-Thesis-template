@@ -2,6 +2,9 @@
 
 [English Version README](README.md) | [GitHub仓库](https://github.com/kikixiong/SCNU-ABD-Thesis-template)
 
+![image](https://github.com/user-attachments/assets/c27137ed-911d-40f0-a250-8946f8b5e85d)
+
+
 
 ## ⚠️ 重要声明
 - 🔴 **非官方模板**，未获教学校、学院的认证，目前有被打回word的风险，谨慎使用
