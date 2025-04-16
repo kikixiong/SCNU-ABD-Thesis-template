@@ -1,5 +1,6 @@
 # SCNU-ABD-毕业论文模板
-
+## NEWS
+- **25/04/17** 本貌似还存在不少细节需要完善，工作量大，**暂时停止维护更新**，可以移步正在共同维护更新维护的NEXT-SCNUThesis [https://github.com/FaterYU/NEXT-SCNUThesis] 
 [English Version README](README.md) | [GitHub仓库](https://github.com/kikixiong/SCNU-ABD-Thesis-template)
 
 ![image](https://github.com/user-attachments/assets/c27137ed-911d-40f0-a250-8946f8b5e85d)
