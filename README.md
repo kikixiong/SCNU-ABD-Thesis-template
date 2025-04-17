@@ -1,6 +1,6 @@
 # SCNU-ABD-Thesis-template
 ## NEWS
-- **25/04/17** 本貌似还存在不少细节需要完善，工作量大，**暂时停止维护更新**，可以移步正在共同维护更新维护的NEXT-SCNUThesis [https://github.com/FaterYU/NEXT-SCNUThesis] 
+- **25/04/17** 本模板还存在不少细节需要完善，工作量大，**暂时停止维护更新**，可以移步正在共同维护更新维护的NEXT-SCNUThesis [https://github.com/FaterYU/NEXT-SCNUThesis] 
 
 [中文版README](READMEzh.md) | [GitHub Repository](https://github.com/kikixiong/SCNU-ABD-Thesis-template)
 ![image](https://github.com/user-attachments/assets/67f1a435-d447-40c0-b05d-b6c009896687)
